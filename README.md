@@ -25,14 +25,6 @@ Soy un apasionado desarrollador de software enfocado en crear soluciones tecnol�
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josepuma&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josepuma&layout=compact&theme=radical)
-
----
-
 ### 📫 Contáctame
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josepuma@sayrin.cl)
