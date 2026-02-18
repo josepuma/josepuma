@@ -1,18 +1,18 @@
-# 👋 Hola, soy Jose Puma
+# Hola, soy Jose Puma
 
-## 💻 Desarrollador de Software & Entusiasta de la Tecnología
+## Desarrollador de Software & Entusiasta de la Tecnología
 
 Bienvenido a mi rincón en GitHub donde comparto proyectos, experimentos y contribuciones al mundo del código abierto.
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy un apasionado desarrollador de software enfocado en crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo web y móvil, con un fuerte interés en arquitecturas escalables y buenas prácticas de programación.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -25,15 +25,9 @@ Soy un apasionado desarrollador de software enfocado en crear soluciones tecnol�
 
 ---
 
-### 📫 Contáctame
+### Contáctame
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josepuma@sayrin.cl)
-
----
-
-### 💭 Cita Favorita
-
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House
 
 ---
 
